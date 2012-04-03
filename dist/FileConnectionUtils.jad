@@ -1,0 +1,7 @@
+MIDlet-Jar-Size: 20727
+MIDlet-Jar-URL: FileConnectionUtils.jar
+MIDlet-Name: FileConnectionUtils
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
